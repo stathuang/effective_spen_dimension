@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Code for Effective Span Dimension for Learned Kernels"
+type: software
+authors:
+  - family-names: Huang
+    given-names: Dongming
+  - family-names: Li
+    given-names: Zhifan
+  - family-names: Li
+    given-names: Yicheng
+  - family-names: Lin
+    given-names: Qian
+license: MIT
+version: "esd_experiments_release_20260522_003113"
+date-released: "2026-05-22"
