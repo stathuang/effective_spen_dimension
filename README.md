@@ -1,8 +1,8 @@
 # Code for Effective Span Dimension for Learned Kernels
 
 This repository contains the Python code and saved numerical data used to
-reproduce the numerical figures for the paper *Effective Span Dimension for
-Learned Kernels*.  The fastest verification path is plot-only: install the
+reproduce the numerical figures for the paper *Alignment-Sensitive Minimax Rates for Spectral Algorithms with Learned Kernels*.  
+The fastest verification path is plot-only: install the
 standard dependencies, run the unit tests, and redraw all six active figure PDFs
 from the bundled `.npz` files under `data/figure_data/`.
 
